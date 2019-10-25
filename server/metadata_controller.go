@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/rancher/log"
-	"github.com/rancher/rancher-metadata/config"
+	"github.com/denkhaus/rancher-metadata/config"
 	uuid "github.com/satori/go.uuid"
 )
 

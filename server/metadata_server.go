@@ -3,7 +3,7 @@ package server
 import (
 	"fmt"
 
-	"github.com/rancher/rancher-metadata/config"
+	"github.com/denkhaus/rancher-metadata/config"
 )
 
 type GlobalReloadFunc func()

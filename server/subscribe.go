@@ -14,8 +14,8 @@ import (
 	revents "github.com/rancher/event-subscriber/events"
 	"github.com/rancher/go-rancher/v2"
 	"github.com/rancher/log"
-	"github.com/rancher/rancher-metadata/config"
-	"github.com/rancher/rancher-metadata/pkg/kicker"
+	"github.com/denkhaus/rancher-metadata/config"
+	"github.com/denkhaus/rancher-metadata/pkg/kicker"
 )
 
 type ReloadFunc func(versions config.Versions, creds []config.Credential, version string)

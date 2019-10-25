@@ -22,8 +22,8 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/rancher/log"
 	logserver "github.com/rancher/log/server"
-	"github.com/rancher/rancher-metadata/config"
-	"github.com/rancher/rancher-metadata/server"
+	"github.com/denkhaus/rancher-metadata/config"
+	"github.com/denkhaus/rancher-metadata/server"
 	"gopkg.in/yaml.v2"
 )
 
